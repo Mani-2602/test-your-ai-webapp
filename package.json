@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@axe-core/playwright": "^4.14.0",
     "next": "16.4.2",
+    "playwright": "^1.64.1",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
