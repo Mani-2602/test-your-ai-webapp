@@ -430,7 +430,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-neutral-200">
         <div className="mx-auto flex max-w-7xl flex-col gap-3 px-6 py-7 text-sm text-neutral-500 sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} Test Your AI Web App</p>
+          <p>© 2026 Test Your AI Web App</p>
           <p>Simple checks. Clearer improvements.</p>
         </div>
       </footer>
